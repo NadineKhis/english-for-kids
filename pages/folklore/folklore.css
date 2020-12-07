@@ -22,3 +22,7 @@
 .talking-tree {
     background-image: url("../../assets/images/folklore/talking-tree.jpg");
 }
+
+.memory-card.playing {
+    background-color: #fff;
+}

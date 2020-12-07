@@ -22,3 +22,7 @@
 .queen {
     background-image: url("../../assets/images/medieval/queen.jpg");
 }
+
+.memory-card.playing {
+    background-color: #fff;
+}
