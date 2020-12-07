@@ -70,7 +70,7 @@
 .back, .front{
   display: grid;
   position: absolute;
-  width: 300px;
+  /*width: 300px;*/
   grid-gap: 30px;
   backface-visibility: hidden;
 }

@@ -133,6 +133,25 @@ a:hover {
   background-image: url("../assets/images/menu/fruits.jpg");
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 600px) {
+  .switch {
+    position: absolute;
+    right: 10px;
+    top: 40px;
+  }
+  .header {
+    flex-direction: column;
+  }
+  .menu {
+    width: 105px;
+  }
+  .title {
+    font-size: 50px;
+    /*margin-left: 35px;*/
+  }
+  .memory-card, .memory-img, .front, .back {
+    width: 250px;
+    /*height: 220px;*/
+  }
 
 }

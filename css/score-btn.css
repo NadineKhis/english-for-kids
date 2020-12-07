@@ -1,0 +1,45 @@
+.score-btn {
+    border-radius: 3px;
+    padding: 8px 18px 8px 8px;
+    position: fixed;
+    right: -2px;
+    top: 50%;
+    font-family: "Kristen ITC", sans-serif;
+    -moz-animation: cycle 4s linear infinite;
+    -webkit-animation: cycle 4s linear infinite;
+    background-color: #bc392d;
+    color: white;
+    cursor: pointer;
+}
+
+@-moz-keyframes cycle {
+    35% {transform: rotate(0) translate(0, 0);}
+    40% {transform: rotate(5deg) translate(0, -2px);}
+    45% {transform: rotate(-3deg) translate(0, -2px);}
+    50% {transform: rotate(5deg) translate(0, -2px);}
+    55% {transform: rotate(-3deg) translate(0, -2px);}
+    60% {transform: rotate(5deg) translate(0, -2px);}
+    65% {transform: rotate(-3deg) translate(0, -2px);}
+    70% {transform: rotate(0) translate(0, 0);}
+}
+
+@-webkit-keyframes cycle {
+    35% {transform: rotate(0) translate(0, 0);}
+    40% {transform: rotate(5deg) translate(0, -2px);}
+    45% {transform: rotate(-3deg) translate(0, -2px);}
+    50% {transform: rotate(5deg) translate(0, -2px);}
+    55% {transform: rotate(-3deg) translate(0, -2px);}
+    60% {transform: rotate(5deg) translate(0, -2px);}
+    65% {transform: rotate(-3deg) translate(0, -2px);}
+    70% {transform: rotate(0) translate(0, 0);}
+}
+
+/* ----- Animated button END ----- */
+
+/*.score-btn{*/
+/*    color:white;*/
+/*    min-height:30px;*/
+/*    margin-left:auto;*/
+/*    margin-right:auto;*/
+/*    display:block;*/
+/*}*/
