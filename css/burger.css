@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+#nav-icon {
+  width: 55px;
+  height: 20px;
+  position: relative;
+  margin: 65px 50px 50px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: 1s ease-in-out;
+  -moz-transition: 1s ease-in-out;
+  -o-transition: 1s ease-in-out;
+  transition: 1s ease-in-out;
+  cursor: pointer;
+}
+
+#nav-icon span {
+  display: block;
+  position: absolute;
+  height: 9px;
+  width: 100%;
+  background: #d3531a;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -moz-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+}
+
+#nav-icon span:nth-child(1) {
+  top: 0;
+}
+
+#nav-icon span:nth-child(2) {
+  top: 18px;
+}
+
+#nav-icon span:nth-child(3) {
+  top: 36px;
+}
+
+#nav-icon.open span:nth-child(1) {
+  top: 18px;
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+
+#nav-icon.open span:nth-child(2) {
+  opacity: 0;
+  left: -60px;
+}
+
+#nav-icon.open span:nth-child(3) {
+  top: 18px;
+  -webkit-transform: rotate(-135deg);
+  -moz-transform: rotate(-135deg);
+  -o-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+}
+
+nav {
+  width: 55px;
+  height: 140px;
+}
+
+#nav-icon {
+  position: fixed;
+  z-index: 100;
+  cursor: pointer;
+}
+
+.nav-links {
+  display: flex;
+  position: fixed;
+  list-style: none;
+  background: #539975;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  clip-path: circle(100px at -10% -20%);
+  -webkit-clip-path: circle(100px at -10% -20%);
+  transition: all 1s ease-out;
+  z-index: 10;
+}
+
+.nav-links.open {
+  clip-path: circle(4000px at -3% -10%);
+  -webkit-clip-path: circle(4000px at -3% -10%);
+}
+
+.nav-link {
+  font-family: 'Cabin Sketch', cursive;
+  color: #f2f2f2;
+  font-size: 40px;
+  letter-spacing: 3px;
+  transition: .3s;
+}
+
+.nav-link:hover {
+  color: lightcoral;
+  text-decoration: yellow;
+}
+
+.nav-link.active {
+  text-decoration: underline;
+}
+
+

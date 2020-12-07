@@ -1,0 +1,155 @@
+.memory-game {
+  perspective: 1000px;
+}
+
+.memory-card {
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.memory-card:active {
+  transform: scale(.9);
+}
+
+.memory-card.flip {
+  transform: rotateY(180deg);
+}
+
+.memory-card.playing {
+  background-color: #fff8f8;
+}
+
+.memory-card.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.memory-flip-btn {
+  position: absolute;
+  right: 0;
+  width: 30px;
+  margin-right: 15px;
+}
+
+.memory-flip-btn.playing {
+  visibility: hidden;
+}
+
+.memory-flip-btn:hover{
+  animation-name: rotation;
+  animation-duration: 1s;
+  animation-iteration-count: 0.5;
+  animation-timing-function: linear;
+}
+
+.memory-description {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+.memory-description.playing {
+  visibility: hidden;
+  color: transparent;
+}
+
+.memory-img {
+  background-size: contain;
+  background-position-x: center;
+}
+
+@keyframes rotation {
+  0% {
+    transform:rotate(0deg);
+  }
+  100% {
+    transform:rotate(360deg);
+  }
+}
+
+.back, .front{
+  display: grid;
+  position: absolute;
+  width: 300px;
+  grid-gap: 30px;
+  backface-visibility: hidden;
+}
+
+.front.playing {
+  padding-top: 40px;
+}
+
+.back {
+  transform: rotateY(180deg);
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 25px;
+}
+
+.start-btn {
+  height: 100px;
+  width: 300px;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #539975;
+  box-shadow: inset 0 0 0 0 #e99f9d;
+  outline: none;
+  font-size: 2rem;
+  transition: ease-out 0.5s;
+  cursor: pointer;
+  display:none;
+}
+
+.start-btn:hover {
+  box-shadow: inset 0 0 0 300px #fa8072;
+  transition: ease-out 1s;
+  color: #fff;
+}
+
+.start-btn.playing {
+  visibility: visible;
+  display: block;
+}
+
+.repeat-btn {
+  height: 80px;
+  width: 80px;
+  border: none;
+  border-radius: 100%;
+  color: #ffffff;
+  background-color: #539975;
+  font-size: 40px;
+  cursor: pointer;
+  outline: none;
+  visibility: hidden;
+}
+
+.repeat-btn:hover {
+  box-shadow: inset 0 0 0 300px #fa8072;
+  transition: ease-out 1s;
+}
+
+.repeat-btn:active{
+  transform: scale(2);
+}
+
+.repeat-btn.playing {
+  visibility: visible;
+}
+
+.guesses-container {
+  max-width: 500px;
+  max-height: 30px;
+  overflow: hidden;
+}
+
+.guess {
+  width: 30px;
+  margin-left: 2px;
+}
+
+

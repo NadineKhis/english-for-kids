@@ -1,0 +1,35 @@
+.hat {
+  background-image: url("../../assets/images/clothes/hat.jpg");
+}
+
+.shirt {
+  background-image: url("../../assets/images/clothes/shirt.jpg");
+}
+
+.dress {
+  background-image: url("../../assets/images/clothes/dress.jpg");
+}
+
+.jeans {
+  background-image: url("../../assets/images/clothes/jeans.jpg");
+}
+
+.t-shirt {
+  background-image: url("../../assets/images/clothes/t-shirt.jpg");
+}
+
+.bag {
+  background-image: url("../../assets/images/clothes/bag.jpg");
+}
+
+.skirt {
+  background-image: url("../../assets/images/clothes/skirt.jpg");
+}
+
+.socks {
+  background-image: url("../../assets/images/clothes/socks.jpg");
+}
+
+.memory-card.playing {
+  background-color: #fffffe;
+}
