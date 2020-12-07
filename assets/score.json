@@ -1,0 +1,449 @@
+[
+  {
+    "category": "Pets",
+    "word": "Guinea pig",
+    "translation": "Морская свинка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Chameleon",
+    "translation": "Хамелеон",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Fish",
+    "translation": "Рыба",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Iguana",
+    "translation": "Игуана",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Parrot",
+    "translation": "Попугай",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Rabbit",
+    "translation": "Кролик",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Turtle",
+    "translation": "Черепаха",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Pets",
+    "word": "Snail",
+    "translation": "Улитка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Hat",
+    "translation": "Шляпа",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Shirt",
+    "translation": "Рубашка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Dress",
+    "translation": "Платье",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Jeans",
+    "translation": "Джинсы",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "T-shirt",
+    "translation": "Футболка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Bag",
+    "translation": "Сумка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Skirt",
+    "translation": "Юбка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Clothes",
+    "word": "Socks",
+    "translation": "Носки",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Dwarf",
+    "translation": "Гном",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Fairy",
+    "translation": "Фея",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Elf",
+    "translation": "Эльф",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Forester",
+    "translation": "Леший",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Witch",
+    "translation": "Ведьма",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Leprechaun",
+    "translation": "Лепрекон",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Folklore",
+    "word": "Talking tree",
+    "translation": "Энт",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Archer",
+    "translation": "Лучник",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Blacksmith",
+    "translation": "Кузнец",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Executioner",
+    "translation": "Палач",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Jester",
+    "translation": "Шут",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "King",
+    "translation": "Король",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Knight",
+    "translation": "Рыцарь",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Peasant",
+    "translation": "Крестьянка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Medieval",
+    "word": "Queen",
+    "translation": "Королева",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Give present",
+    "translation": "Дарить подарок",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Give present",
+    "translation": "Дарить подарок",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Basketball",
+    "translation": "Баскетбол",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Tennis",
+    "translation": "Теннис",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Play",
+    "translation": "Играть",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Bicycle",
+    "translation": "Велосипед",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Roller skates",
+    "translation": "Ролики",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Sing",
+    "translation": "Пение",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Activities",
+    "word": "Skate",
+    "translation": "Скейт",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Christmas",
+    "word": "Mittens",
+    "translation": "Варежки",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "id": "ornaments",
+    "category": "Christmas",
+    "word": "Ornaments",
+    "translation": "Украшения",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "id": "gift",
+    "category": "Christmas",
+    "word": "Gift",
+    "translation": "Подарок",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "id": "star",
+    "category": "Christmas",
+    "word": "Star",
+    "translation": "Звезда",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "id": "stocking",
+    "category": "Christmas",
+    "word": "Stocking",
+    "translation": "Носок",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "id": "tree",
+    "category": "Christmas",
+    "word": "Christmas tree",
+    "translation": "Ёлка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "id": "wreath",
+    "category": "Christmas",
+    "word": "Wreath",
+    "translation": "Венок",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Christmas",
+    "word": "Mittens",
+    "translation": "Варежки",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  },
+  {
+    "category": "Christmas",
+    "word": "Mittens",
+    "translation": "Варежки",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0
+  }
+]
