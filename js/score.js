@@ -1,21 +1,11 @@
 const scoreTable = document.getElementById("scoreTable");
 
-async function getScore() {
-  const url = "../../assets/score.json";
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Could not fetch ${url}, received ${response.status}`);
-  }
-  return response.json();
+function updateScore() {
+  let state = localStorage.getItem("state");
+  render(JSON.parse(state))
 }
 
-getScore()
-  .then((data) => {
-    score(data);
-  })
-  .catch((error) => console.error(error));
-
-function score(data) {
+function render(data) {
   for (let i = 0; i < data.length; i++) {
     scoreTable.insertAdjacentHTML("beforeend",
       `
@@ -28,3 +18,6 @@ function score(data) {
         <td>${data[i]["%"]}</td>`)
   }
 }
+
+updateScore()
+

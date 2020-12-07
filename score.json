@@ -6,7 +6,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "guinea-pig"
   },
   {
     "category": "Pets",
@@ -15,7 +16,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "chameleon"
   },
   {
     "category": "Pets",
@@ -24,7 +26,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "fish"
   },
   {
     "category": "Pets",
@@ -33,7 +36,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "iguana"
   },
   {
     "category": "Pets",
@@ -42,7 +46,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "parrot"
   },
   {
     "category": "Pets",
@@ -51,7 +56,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "rabbit"
   },
   {
     "category": "Pets",
@@ -60,7 +66,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "turtle"
   },
   {
     "category": "Pets",
@@ -69,7 +76,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "snail"
   },
   {
     "category": "Clothes",
@@ -78,7 +86,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "hat"
   },
   {
     "category": "Clothes",
@@ -87,7 +96,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "shirt"
   },
   {
     "category": "Clothes",
@@ -96,7 +106,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "dress"
   },
   {
     "category": "Clothes",
@@ -105,7 +116,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "jeans"
   },
   {
     "category": "Clothes",
@@ -114,7 +126,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "t-shirt"
   },
   {
     "category": "Clothes",
@@ -123,7 +136,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "bag"
   },
   {
     "category": "Clothes",
@@ -132,7 +146,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "skirt"
   },
   {
     "category": "Clothes",
@@ -141,7 +156,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "socks"
   },
   {
     "category": "Folklore",
@@ -150,7 +166,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "dwarf"
   },
   {
     "category": "Folklore",
@@ -159,7 +176,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "fairy"
   },
   {
     "category": "Folklore",
@@ -168,7 +186,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "elf"
   },
   {
     "category": "Folklore",
@@ -177,7 +196,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "forester"
   },
   {
     "category": "Folklore",
@@ -186,7 +206,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "witch"
   },
   {
     "category": "Folklore",
@@ -195,7 +216,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "leprechaun"
   },
   {
     "category": "Folklore",
@@ -204,7 +226,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "talking-tree"
   },
   {
     "category": "Medieval",
@@ -213,7 +236,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "archer"
   },
   {
     "category": "Medieval",
@@ -222,7 +246,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "blacksmith"
   },
   {
     "category": "Medieval",
@@ -231,7 +256,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "executioner"
   },
   {
     "category": "Medieval",
@@ -240,7 +266,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "jester"
   },
   {
     "category": "Medieval",
@@ -249,7 +276,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "king"
   },
   {
     "category": "Medieval",
@@ -258,7 +286,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "knight"
   },
   {
     "category": "Medieval",
@@ -267,7 +296,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "peasant"
   },
   {
     "category": "Medieval",
@@ -276,7 +306,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "queen"
   },
   {
     "category": "Activities",
@@ -285,16 +316,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
-  },
-  {
-    "category": "Activities",
-    "word": "Give present",
-    "translation": "Дарить подарок",
-    "trained": 0,
-    "correct": 0,
-    "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "give-present"
   },
   {
     "category": "Activities",
@@ -303,7 +326,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "basketball"
   },
   {
     "category": "Activities",
@@ -312,7 +336,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "tennis"
   },
   {
     "category": "Activities",
@@ -321,7 +346,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "play"
   },
   {
     "category": "Activities",
@@ -330,7 +356,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "bicycle"
   },
   {
     "category": "Activities",
@@ -339,7 +366,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "roller-skates"
   },
   {
     "category": "Activities",
@@ -348,7 +376,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "sing"
   },
   {
     "category": "Activities",
@@ -357,7 +386,8 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "skate"
   },
   {
     "category": "Christmas",
@@ -366,84 +396,227 @@
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "mittens"
   },
   {
-    "id": "ornaments",
     "category": "Christmas",
     "word": "Ornaments",
     "translation": "Украшения",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "ornaments"
   },
   {
-    "id": "gift",
     "category": "Christmas",
     "word": "Gift",
     "translation": "Подарок",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "gift"
   },
   {
-    "id": "star",
     "category": "Christmas",
     "word": "Star",
     "translation": "Звезда",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "star"
   },
   {
-    "id": "stocking",
     "category": "Christmas",
     "word": "Stocking",
     "translation": "Носок",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "stocking"
   },
   {
-    "id": "tree",
     "category": "Christmas",
     "word": "Christmas tree",
     "translation": "Ёлка",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "tree"
   },
   {
-    "id": "wreath",
     "category": "Christmas",
     "word": "Wreath",
     "translation": "Венок",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "wreath"
   },
   {
-    "category": "Christmas",
-    "word": "Mittens",
-    "translation": "Варежки",
+    "category": "Vegetables",
+    "word": "Beet",
+    "translation": "Свекла",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "beet"
   },
   {
-    "category": "Christmas",
-    "word": "Mittens",
-    "translation": "Варежки",
+    "category": "Vegetables",
+    "word": "Cabbage",
+    "translation": "Капуста",
     "trained": 0,
     "correct": 0,
     "incorrect": 0,
-    "%": 0
+    "%": 0,
+    "id": "cabbage"
+  },
+  {
+    "category": "Vegetables",
+    "word": "Corn",
+    "translation": "Кукуруза",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "corn"
+  },
+  {
+    "category": "Vegetables",
+    "word": "Mushroom",
+    "translation": "Гриб",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "mushroom"
+  },
+  {
+    "category": "Vegetables",
+    "word": "Pickle",
+    "translation": "Соленый огурец",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "pickle"
+  },
+  {
+    "category": "Vegetables",
+    "word": "Potato",
+    "translation": "Картошка",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "potato"
+  },
+  {
+    "category": "Vegetables",
+    "word": "Radish",
+    "translation": "Редиска",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "radish"
+  },
+  {
+    "category": "Vegetables",
+    "word": "Tomato",
+    "translation": "Помидор",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "tomato"
+  },
+  {
+    "category": "Fruits",
+    "word": "Banana",
+    "translation": "Банан",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "banana"
+  },
+  {
+    "category": "Fruits",
+    "word": "Cherry",
+    "translation": "Вишня",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "cherry"
+  },
+  {
+    "category": "Fruits",
+    "word": "Grapes",
+    "translation": "Виноград",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "grapes"
+  },
+  {
+    "category": "Fruits",
+    "word": "Orange",
+    "translation": "Апельсин",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "orange"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pear",
+    "translation": "Груша",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "pear"
+  },
+  {
+    "category": "Fruits",
+    "word": "Pineapple",
+    "translation": "Ананас",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "pineapple"
+  },
+  {
+    "category": "Fruits",
+    "word": "Strawberry",
+    "translation": "Клубника",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "strawberry"
+  },
+   {
+    "category": "Fruits",
+    "word": "Watermelon",
+    "translation": "Арбуз",
+    "trained": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "%": 0,
+    "id": "watermelon"
   }
 ]

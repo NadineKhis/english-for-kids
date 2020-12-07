@@ -4,8 +4,11 @@ const checkbox = document.querySelector('input[type="checkbox"]');
 const startBtn = document.getElementById("start-game");
 const repeatBtn = document.getElementById("repeat-word");
 const cards = document.querySelectorAll(".memory-card");
-const guesses = document.querySelector(".guesses-container")
-const popup = document.getElementById("popup")
+const guesses = document.querySelector(".guesses-container");
+const popup = document.getElementById("popup");
+let gameState = JSON.parse(localStorage.getItem("state"));
+let category = document.querySelector(".title");
+
 
 let isPlaying = false;
 let isGuessing = false;
