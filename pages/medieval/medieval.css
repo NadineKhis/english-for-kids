@@ -1,0 +1,24 @@
+.archer {
+    background-image: url("../../assets/images/medieval/archer.jpg");
+}
+.blacksmith {
+    background-image: url("../../assets/images/medieval/blacksmith.jpg");
+}
+.executioner {
+    background-image: url("../../assets/images/medieval/executioner.jpg");
+}
+.jester {
+    background-image: url("../../assets/images/medieval/jester.jpg");
+}
+.king {
+    background-image: url("../../assets/images/medieval/king.jpg");
+}
+.knight {
+    background-image: url("../../assets/images/medieval/knight.jpg");
+}
+.peasant {
+    background-image: url("../../assets/images/medieval/peasant.jpg");
+}
+.queen {
+    background-image: url("../../assets/images/medieval/queen.jpg");
+}

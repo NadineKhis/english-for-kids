@@ -74,9 +74,13 @@ nav {
 }
 
 #nav-icon {
-  position: fixed;
+  position: absolute;
   z-index: 100;
   cursor: pointer;
+}
+
+#nav-icon.open {
+  position: fixed;
 }
 
 .nav-links {

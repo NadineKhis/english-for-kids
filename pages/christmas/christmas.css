@@ -1,0 +1,35 @@
+.candle {
+  background-image: url("../../assets/images/christmas/candle.jpg");
+}
+
+.mittens {
+  background-image: url("../../assets/images/christmas/mittens.jpg");
+}
+
+.ornaments {
+  background-image: url("../../assets/images/christmas/ornaments.jpg");
+}
+
+.gift {
+  background-image: url("../../assets/images/christmas/gift.jpg");
+}
+
+.stocking {
+  background-image: url("../../assets/images/christmas/stocking.jpg");
+}
+
+.star {
+  background-image: url("../../assets/images/christmas/star.jpg");
+}
+
+.tree {
+  background-image: url("../../assets/images/christmas/tree.jpg");
+}
+
+.wreath {
+  background-image: url("../../assets/images/christmas/wreath.jpg");
+}
+
+.memory-card.playing {
+  background-color: #e5a275;
+}

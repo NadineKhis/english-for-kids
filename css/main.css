@@ -3,7 +3,6 @@
 body {
   background-image: url("../assets/images/bg2.jpg");
   background-size: cover;
-  cursor: url("../assets/images/footprint.png"), default;
   margin: 0;
 }
 
@@ -116,6 +115,22 @@ a:hover {
 
 .memory-img.medieval {
   background-image: url("../assets/images/menu/medieval.jpg");
+}
+
+.memory-img.activities {
+  background-image: url("../assets/images/menu/activities.jpg");
+}
+
+.memory-img.christmas {
+  background-image: url("../assets/images/menu/christmas.jpg");
+}
+
+.memory-img.vegs {
+  background-image: url("../assets/images/menu/vegs.jpg");
+}
+
+.memory-img.fruits {
+  background-image: url("../assets/images/menu/fruits.jpg");
 }
 
 @media (max-width: 1100px) {

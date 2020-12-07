@@ -1,0 +1,35 @@
+.banana {
+  background-image: url("../../assets/images/fruits/banana.jpg");
+}
+
+.cherry {
+  background-image: url("../../assets/images/fruits/cherry.jpg");
+}
+
+.orange {
+  background-image: url("../../assets/images/fruits/orange.jpg");
+}
+
+.grapes {
+  background-image: url("../../assets/images/fruits/grapes.jpg");
+}
+
+.pineapple {
+  background-image: url("../../assets/images/fruits/pineapple.jpg");
+}
+
+.pear {
+  background-image: url("../../assets/images/fruits/pear.jpg");
+}
+
+.strawberry {
+  background-image: url("../../assets/images/fruits/strawberry.jpg");
+}
+
+.watermelon {
+  background-image: url("../../assets/images/fruits/watermelon.jpg");
+}
+
+.memory-card.playing{
+  background-color: #fff;
+}

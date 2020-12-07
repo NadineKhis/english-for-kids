@@ -1,0 +1,36 @@
+.beet {
+  background-image: url("../../assets/images/vegs/beet.jpg");
+}
+
+.cabbage {
+  background-image: url("../../assets/images/vegs/cabbage.jpg");
+}
+
+.corn {
+  background-image: url("../../assets/images/vegs/corn.jpg");
+}
+
+.mushroom {
+  background-image: url("../../assets/images/vegs/mushroom.jpg");
+}
+
+.pickle {
+  background-image: url("../../assets/images/vegs/pickle.jpg");
+}
+
+.potato {
+  background-image: url("../../assets/images/vegs/potato.jpg");
+}
+
+.radish {
+  background-image: url("../../assets/images/vegs/radish.jpg");
+}
+
+.tomato {
+  background-image: url("../../assets/images/vegs/tomato.jpg");
+}
+
+.memory-card.playing {
+  background-color: #431539;
+}
+
